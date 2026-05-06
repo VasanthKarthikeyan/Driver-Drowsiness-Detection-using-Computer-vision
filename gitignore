@@ -18,10 +18,14 @@ build/
 # generated audio
 alarm.wav
 
-# IDE
-.vscode/
-.idea/
+# IDE — Vim
 *.swp
+*.swo
+*.swn
+*~
+.netrwhist
+Session.vim
+tags
 
 # OS
 .DS_Store
