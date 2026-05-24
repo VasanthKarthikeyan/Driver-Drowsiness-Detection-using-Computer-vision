@@ -4,7 +4,7 @@ Driver Drowsiness Detection System
 Uses Eye Aspect Ratio (EAR) to detect eye closure and trigger alerts.
 
 Requirements:
-    pip install opencv-python dlib imutils scipy numpy pygame
+    opencv-python dlib imutils scipy numpy pygame
     Also needs dlib's shape predictor: shape_predictor_68_face_landmarks.dat
 """
 
